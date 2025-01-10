@@ -12,7 +12,7 @@ UIUC Professors
 - ## [Minjia Zhang](https://minjiazhang.github.io/)
 	- [Powering multi-task federated learning with competitive gpu resource sharing](https://dl.acm.org/doi/abs/10.1145/3487553.3524859)
 	- [FedHC: A Scalable Federated Learning Framework for Heterogeneous and Resource-Constrained Clients](https://arxiv.org/abs/2305.15668)
-- ## [Francis Y. Yan](https://fyy.cs.illinois.edu/prospective-students/) - purely networking and ML 🤮
+- ## [Francis Y. Yan](https://fyy.cs.illinois.edu/prospective-students/) - purely networking and ML :-)
 - ## [Gagandeep Singh](https://ggndpsngh.github.io/)
 	- [Improving llm code generation with grammar augmentation](https://arxiv.org/abs/2403.01632)
 	- [IterGen: Iterative Structured LLM Generation](https://arxiv.org/abs/2410.07295)
