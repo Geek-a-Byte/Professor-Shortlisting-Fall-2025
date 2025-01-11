@@ -51,12 +51,12 @@ UIUC Professors
 # NLP
 - ## [Daniel Kang](https://ddkang.github.io/)
 	- [tailwiz: Empowering Domain Experts with Easy-to-Use, Task-Specific Natural Language Processing Models](https://dl.acm.org/doi/abs/10.1145/3650203.3663328)
-- https://reyhaneh.cs.illinois.edu/
+- ## [REYHANEH JABBARVAND](https://reyhaneh.cs.illinois.edu/)
 	- [Lost in translation: A study of bugs introduced by large language models while translating code](https://dl.acm.org/doi/abs/10.1145/3597503.3639226)
 	- [Codemind: A framework to challenge large language models for code reasoning](https://arxiv.org/abs/2402.09664)
-- https://siebelschool.illinois.edu/about/people/department-faculty/dilek
+- ## [Dilek Hakkani-Tur](https://siebelschool.illinois.edu/about/people/department-faculty/dilek)
 	- [Infogent: An agent-based framework for web information aggregation](https://arxiv.org/abs/2410.19054)
-- https://talaugust.github.io/
+- ## [Tal August](https://talaugust.github.io/)
 	- [Qlarify: Recursively Expandable Abstracts for Dynamic Information Retrieval over Scientific Papers](https://dl.acm.org/doi/abs/10.1145/3654777.3676397)
 ===============================================================
 - https://haopeng-nlp.github.io/
