@@ -8,6 +8,18 @@ My Research Interests are as follows:
 
 
 UIUC Professors
+# AI in healthcare
+- ## [Hanghang Tong](http://tonghanghang.org/)
+	- [InterFormer: Towards Effective Heterogeneous Interaction Learning for Click-Through Rate Prediction](https://arxiv.org/abs/2411.09852)
+	- [WAPITI: A Watermark for Finetuned Open-Source LLMs](https://arxiv.org/abs/2410.06467
+	- [MUSENET: Multi-scenario learning for repeat-aware personalized recommendation](https://dl.acm.org/doi/abs/10.1145/3539597.3570414)
+	- [How Efficient is LLM-Generated Code? A Rigorous & High-Standard Benchmark](https://arxiv.org/abs/2406.06647)
+	- [Heterogeneous contrastive learning for foundation models and beyond](https://dl.acm.org/doi/abs/10.1145/3637528.3671454)
+- ## [**Dr. Jimeng Sun**](https://www.sunlab.org/about)
+	- [Federated learning for multi-omics: A performance evaluation in Parkinson’s disease](https://www.cell.com/patterns/fulltext/S2666-3899(24)00044-8)
+	- [CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models](https://arxiv.org/abs/2406.06007)
+	- [HOLMES: Health OnLine Model Ensemble Serving for Deep Learning Models in Intensive Care Units](https://dl.acm.org/doi/abs/10.1145/3394486.3403212)**]**
+ 
 # MLSys
 - ## [Minjia Zhang](https://minjiazhang.github.io/)
 	- [Powering multi-task federated learning with competitive gpu resource sharing](https://dl.acm.org/doi/abs/10.1145/3487553.3524859)
@@ -25,3 +37,28 @@ UIUC Professors
 - ## [Charith Mendis](https://charithmendis.com/) - purely compilers and ML (too hard for me :))
 - ## [Philip Brighten Godfrey](https://pbg.cs.illinois.edu/)
    - [TraceWeaver: Distributed Request Tracing for Microservices Without Application Modification](https://dl.acm.org/doi/abs/10.1145/3651890.3672254)
+
+# Trustworthy ML/Privacy in ML
+- ## [Han Zhao](https://hanzhaoml.github.io/)
+	- [FedGTST: Boosting Global Transferability of Federated Models via Statistics Tuning](https://arxiv.org/abs/2410.13045)
+	- [Transforming the Hybrid Cloud for Emerging AI Workloads](https://arxiv.org/abs/2411.13239
+- ## [Gang Wang](https://gangw.cs.illinois.edu/)
+	- [Practical Region-level Attack against Segment Anything Models](https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/html/Shen_Practical_Region-level_Attack_against_Segment_Anything_Models_CVPRW_2024_paper.html)
+- ## [Bo Li](https://aisecure.github.io/PROJECTS/index.html)
+	- [RedCode: Risky Code Execution and Generation Benchmark for Code Agents](https://arxiv.org/abs/2411.07781)
+	- [Effective and Efficient Federated Tree Learning on Hybrid Data](https://arxiv.org/abs/2310.11865)
+
+# NLP
+- ## [Daniel Kang](https://ddkang.github.io/)
+	- [tailwiz: Empowering Domain Experts with Easy-to-Use, Task-Specific Natural Language Processing Models](https://dl.acm.org/doi/abs/10.1145/3650203.3663328)
+- https://reyhaneh.cs.illinois.edu/
+	- [Lost in translation: A study of bugs introduced by large language models while translating code](https://dl.acm.org/doi/abs/10.1145/3597503.3639226)
+	- [Codemind: A framework to challenge large language models for code reasoning](https://arxiv.org/abs/2402.09664)
+- https://siebelschool.illinois.edu/about/people/department-faculty/dilek
+	- [Infogent: An agent-based framework for web information aggregation](https://arxiv.org/abs/2410.19054)
+- https://talaugust.github.io/
+	- [Qlarify: Recursively Expandable Abstracts for Dynamic Information Retrieval over Scientific Papers](https://dl.acm.org/doi/abs/10.1145/3654777.3676397)
+===============================================================
+- https://haopeng-nlp.github.io/
+- https://siebelschool.illinois.edu/about/people/department-faculty/kindrtnk
+- https://blender.cs.illinois.edu/hengji.html
