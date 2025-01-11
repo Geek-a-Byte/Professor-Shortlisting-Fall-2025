@@ -58,7 +58,7 @@ UIUC Professors
 	- [Infogent: An agent-based framework for web information aggregation](https://arxiv.org/abs/2410.19054)
 - ## [Tal August](https://talaugust.github.io/)
 	- [Qlarify: Recursively Expandable Abstracts for Dynamic Information Retrieval over Scientific Papers](https://dl.acm.org/doi/abs/10.1145/3654777.3676397)
-===============================================================
+
 - https://haopeng-nlp.github.io/
 - https://siebelschool.illinois.edu/about/people/department-faculty/kindrtnk
 - https://blender.cs.illinois.edu/hengji.html
