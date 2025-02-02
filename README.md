@@ -7,8 +7,8 @@ My Research Interests are as follows:
 - Distributed Systems (Microservices)
 
 
-UIUC Professors
-# **AI in healthcare**
+# UIUC Professors
+## **AI in healthcare**
 - ## [Hanghang Tong](http://tonghanghang.org/)
 	- [InterFormer: Towards Effective Heterogeneous Interaction Learning for Click-Through Rate Prediction](https://arxiv.org/abs/2411.09852)
 	- [WAPITI: A Watermark for Finetuned Open-Source LLMs](https://arxiv.org/abs/2410.06467
@@ -20,7 +20,7 @@ UIUC Professors
 	- [CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models](https://arxiv.org/abs/2406.06007)
 	- [HOLMES: Health OnLine Model Ensemble Serving for Deep Learning Models in Intensive Care Units](https://dl.acm.org/doi/abs/10.1145/3394486.3403212)
 		  
-# MLSys
+## MLSys
 - ## [Minjia Zhang](https://minjiazhang.github.io/) - tenure track assistant professor
 	- [Powering multi-task federated learning with competitive gpu resource sharing](https://dl.acm.org/doi/abs/10.1145/3487553.3524859)
 	- [FedHC: A Scalable Federated Learning Framework for Heterogeneous and Resource-Constrained Clients](https://arxiv.org/abs/2305.15668)
@@ -39,7 +39,7 @@ UIUC Professors
 	- [TraceWeaver: Distributed Request Tracing for Microservices Without Application Modification](https://dl.acm.org/doi/abs/10.1145/3651890.3672254)
 	
 
-# **Trustworthy ML/Privacy in ML**
+## **Trustworthy ML/Privacy in ML**
 - ## [Han Zhao](https://hanzhaoml.github.io/) - assistant professor
 	- [FedGTST: Boosting Global Transferability of Federated Models via Statistics Tuning](https://arxiv.org/abs/2410.13045)
 	- [Transforming the Hybrid Cloud for Emerging AI Workloads](https://arxiv.org/abs/2411.13239
@@ -49,7 +49,7 @@ UIUC Professors
 	- [RedCode: Risky Code Execution and Generation Benchmark for Code Agents](https://arxiv.org/abs/2411.07781)
 	- [Effective and Efficient Federated Tree Learning on Hybrid Data](https://arxiv.org/abs/2310.11865)
 
-# **NLP**
+## **NLP**
 - ## [Heng Ji](https://blender.cs.illinois.edu/hengji/teaching.html) - Professor
 	- [Training Software Engineering Agents and Verifiers with SWE-Gym](https://arxiv.org/abs/2412.21139)
 - ## [Daniel Kang](https://ddkang.github.io/) - Assistant professor
@@ -66,10 +66,28 @@ UIUC Professors
 - https://blender.cs.illinois.edu/hengji.html
 
 
-# Shortlisting
+## Shortlisting
 - Jimeng Sun - professor
 - Heng Ji - professor
 - Daniel Kang - assistant professor
 - REYHANEH JABBARVAND - assistant professor
 - Fan Lai - assistant professor
 - Philip Brighten Godfrey - professor
+
+# Georgia Tech
+
+Alessandro Orso - professor
+- [LlamaRestTest: Effective REST API Testing with Small Language Models](https://arxiv.org/abs/2501.08598)
+- [A Multi-Agent Approach for REST API Testing with Semantic Graphs and LLM-Driven Inputs](https://arxiv.org/abs/2411.07098)
+Ling Liu - professor
+- [Scalable Federated Learning with System Heterogeneity](https://ieeexplore.ieee.org/abstract/document/10272562/)
+Yingyan (Celine) Lin - associate professor
+- [AmoebaLLM: Constructing Any-Shape Large Language Models for Efficient and Instant Deployment](https://arxiv.org/abs/2411.10606)
+Vijay Ganesh - professor
+- [CoTran: An LLM-based Code Translator using Reinforcement Learning with Feedback from Compiler and Symbolic Execution](https://arxiv.org/abs/2306.06755)
+Anand Iyer - assistant professor
+- [PACER: Accelerating Distributed GNN Training Using Communication-Efficient Partition Refinement and Caching](https://dl.acm.org/doi/abs/10.1145/3697805) 
+Steve Mussmann - assistant professor
+- [An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models](https://arxiv.org/abs/2401.06692)
+Santosh Pande - Professor
+- [Phaedrus: Exploring Dynamic Application Behavior with Lightweight Generative Models and Large-Language Models](https://arxiv.org/abs/2412.06994)
